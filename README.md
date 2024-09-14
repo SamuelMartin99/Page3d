@@ -2,7 +2,7 @@
 In this project, I've created a dynamic and interactive page using React, Tailwind CSS, and Three.js, combining modern web development technologies to deliver a visually engaging user experience.
 
 
-# [Nombre del Proyecto]
+# Portfolio3d
 
 Una página dinámica e interactiva creada con **React**, **Tailwind CSS** y **Three.js** para ofrecer una experiencia visualmente atractiva y moderna.
 
